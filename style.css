@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(105, 138, 138);
+}
+
+h2{
+    color: rgb(51, 39, 39);
+}
+
+#password {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    width: 300px;
+}
+button {
+    font-size: 16px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin: 5px;
+}
